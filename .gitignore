@@ -1,0 +1,39 @@
+# Unity generated files
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]serSettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Visual Studio / IDE cache
+.vs/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.pidb
+*.booproj
+*.sln.docstates
+
+# Unity meta generated in some cases
+sysinfo.txt
+*.stackdump
+crashlytics-build.properties
+
+# Packaging / archives
+*.7z
+*.rar
+*.apk
+*.unitypackage
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Personal docs
+Assets/Docs/
